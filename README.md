@@ -1,3 +1,3 @@
 # shashank-s-demo
-This ismy first Repository
+This is my first Repository
 Author  Shashank "Shekhar
